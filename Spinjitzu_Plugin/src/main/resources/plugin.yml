@@ -1,0 +1,10 @@
+name: Spinjitzu
+version: '${project.version}'
+main: me.thundercaster.spinjitzu.Spinjitzu
+api-version: 1.16
+authors: [ ThunderCaster ]
+description: spinjitzu fron ninjago
+commands:
+  spinjitzu:
+    description: 'pog command'
+
